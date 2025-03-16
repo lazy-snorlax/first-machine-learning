@@ -18,6 +18,9 @@ It then uses the data as a validation set to train 6 different algorithms:
     python3 -m venv venv
    ```
  * ```
+    source venv/bin/activate
+   ```
+ * ```
     pip install -r requirements.txt
    ```
 2. Once packages are installed, run using the following code
