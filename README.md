@@ -13,7 +13,13 @@ It then uses the data as a validation set to train 6 different algorithms:
 * Support Vector Machines (SVM)
 
 ## How to use
-1. Install the packages listed in requirements.txt using pip. I recommend using a venv for this and python3.
+1. Install the packages listed in requirements.txt using pip. I suggest using a venv for this and python3.
+ * ```
+    python3 -m venv venv
+   ```
+ * ```
+    pip install -r requirements.txt
+   ```
 2. Once packages are installed, run using the following code
 ```
 python3 main.py
