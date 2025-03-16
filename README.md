@@ -1,8 +1,8 @@
 # Machine Learning Algorithm Test
 
-This is a simple machine learning algorithm test taken from the tutorial (here)[https://machinelearningmastery.com/machine-learning-in-python-step-by-step/].
+This is a simple machine learning algorithm test taken from the tutorial [here](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/).
 
-It uses the (Iris flower dataset)[https://en.wikipedia.org/wiki/Iris_flower_data_set] and applies some data analytics to the dataset. An example is included in this repo.
+It uses the [Iris flower dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) and applies some data analytics to the dataset. An example is included in this repo.
 
 It then uses the data as a validation set to train 6 different algorithms:
 * Logistic Regression (LR)
